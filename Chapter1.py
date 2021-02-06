@@ -1,10 +1,35 @@
 import cv2
 import numpy as np
-""""
+
 img = cv2.imread("Recources/Bird.jpg")
-cv2.imshow("Output", img)                                    #Image Import 
+                               #Image Import
+
+
+
+while 1:
+        rows, cols, _channels = map(int, img.shape)
+        ## [show_image]
+        cv2.imshow('Pyramids Demo', img)
+        ## [show_image]
+        k = cv2.waitKey(0)
+
+        if k == 27:
+            break
+            ## [pyrup]
+        elif chr(k) == 'i':
+            img = cv2.pyrUp(img, dstsize=(2 * cols, 2 * rows))
+            print ('** Zoom In: Image x 2')
+            ## [pyrup]
+            ## [pyrdown]
+        elif chr(k) == 'o':
+            img = cv2.pyrDown(img, dstsize=(cols // 2, rows // 2))
+            print ('** Zoom Out: Image / 2')
+            ## [pyrdown]
+    ## [loop]
+
+        cv2.destroyAllWindows()
 cv2.waitKey(0)
-"""
+
 
 """"
 vidcap = cv2.VideoCapture("Recources/Video.mp4")
@@ -16,9 +41,9 @@ while True:
 """
 """
 cap = cv2.VideoCapture(0)          #0 main Camera, 1 Secound camera.....
-cap.set(2,640)         #Width
-cap.set(3,280)         #Hight
-cap.set(10,10)        #Brightness
+cap.set(2,1920)         #Width
+cap.set(3,1080)         #Hight
+cap.set(10,160)        #Brightness
 
 while True:
     success, img = cap.read()

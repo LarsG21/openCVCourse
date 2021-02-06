@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b606fe6c-9ada-4c1f-bf71-210473dd79ae" name="Default Changelist" comment="" />
+    <list default="true" id="b606fe6c-9ada-4c1f-bf71-210473dd79ae" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/openCVCourse.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/openCVCourse.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter4_Shapes_Text.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter4_Shapes_Text.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ColorPicker.py" beforeDir="false" afterPath="$PROJECT_DIR$/ColorPicker.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +21,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1iMtBVuW1fTz0jyC3lJfN1eCHEG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -24,7 +35,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.Chapter4_Shapes_Text">
+  <component name="RunManager" selected="Python.Chapter1">
     <configuration name="Chapter1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="openCVCourse" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -46,7 +57,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Chapter3_Rezising _Cropping" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Chapter9_Face_Detection" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="openCVCourse" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -58,7 +69,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter3_Rezising _Cropping.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter9_Face_Detection.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -67,7 +78,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Chapter4_Shapes_Text" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ColorPicker" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="openCVCourse" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,7 +90,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter4_Shapes_Text.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ColorPicker.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Chapter4_Shapes_Text" />
-        <item itemvalue="Python.Chapter3_Rezising _Cropping" />
         <item itemvalue="Python.Chapter1" />
-        <item itemvalue="Python.Document_Scanner" />
+        <item itemvalue="Python.ColorPicker" />
         <item itemvalue="Python.Virtual_Painting" />
+        <item itemvalue="Python.Document_Scanner" />
+        <item itemvalue="Python.Chapter9_Face_Detection" />
       </list>
     </recent_temporary>
   </component>
@@ -173,45 +184,51 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="465" y="191" key="FileChooserDialogImpl" timestamp="1610366378905">
-      <screen x="0" y="0" width="1368" height="872" />
+    <state x="653" y="228" key="FileChooserDialogImpl" timestamp="1611425982266">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="465" y="191" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1610366378905" />
-    <state width="1348" height="289" key="GridCell.Tab.0.bottom" timestamp="1601897194753">
-      <screen x="0" y="0" width="1368" height="872" />
+    <state x="653" y="228" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1280.920@0.0.1920.1040" timestamp="1611425982266" />
+    <state x="653" y="228" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1610543072620" />
+    <state width="1899" height="327" key="GridCell.Tab.0.bottom" timestamp="1612612474620">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1348" height="289" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1601897194753" />
-    <state width="1348" height="289" key="GridCell.Tab.0.center" timestamp="1601897194753">
-      <screen x="0" y="0" width="1368" height="872" />
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1280.920@0.0.1920.1040" timestamp="1611001235435" />
+    <state width="1259" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1280.920@1920.0.1280.920" timestamp="1612292107133" />
+    <state width="1899" height="327" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1612612474620" />
+    <state width="1899" height="327" key="GridCell.Tab.0.center" timestamp="1612612474620">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1348" height="289" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1601897194753" />
-    <state width="1348" height="289" key="GridCell.Tab.0.left" timestamp="1601897194753">
-      <screen x="0" y="0" width="1368" height="872" />
+    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1280.920@0.0.1920.1040" timestamp="1611001235434" />
+    <state width="1259" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1280.920@1920.0.1280.920" timestamp="1612292107133" />
+    <state width="1899" height="327" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1612612474620" />
+    <state width="1899" height="327" key="GridCell.Tab.0.left" timestamp="1612612474620">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1348" height="289" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1601897194753" />
-    <state width="1348" height="289" key="GridCell.Tab.0.right" timestamp="1601897194753">
-      <screen x="0" y="0" width="1368" height="872" />
+    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1280.920@0.0.1920.1040" timestamp="1611001235434" />
+    <state width="1259" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1280.920@1920.0.1280.920" timestamp="1612292107133" />
+    <state width="1899" height="327" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1612612474620" />
+    <state width="1899" height="327" key="GridCell.Tab.0.right" timestamp="1612612474620">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1348" height="289" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1601897194753" />
-    <state width="663" height="283" key="GridCell.Tab.1.bottom" timestamp="1601823433264">
-      <screen x="0" y="0" width="1368" height="872" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1280.920@0.0.1920.1040" timestamp="1611001235435" />
+    <state width="1259" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1280.920@1920.0.1280.920" timestamp="1612292107133" />
+    <state width="1899" height="327" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1612612474620" />
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1610373575426">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="663" height="283" key="GridCell.Tab.1.bottom/0.0.1368.872@0.0.1368.872" timestamp="1601823433264" />
-    <state width="663" height="283" key="GridCell.Tab.1.center" timestamp="1601823433264">
-      <screen x="0" y="0" width="1368" height="872" />
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1280.920@0.0.1920.1040" timestamp="1610373575426" />
+    <state width="1899" height="348" key="GridCell.Tab.1.center" timestamp="1610373575425">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="663" height="283" key="GridCell.Tab.1.center/0.0.1368.872@0.0.1368.872" timestamp="1601823433264" />
-    <state width="663" height="283" key="GridCell.Tab.1.left" timestamp="1601823433264">
-      <screen x="0" y="0" width="1368" height="872" />
+    <state width="1899" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1280.920@0.0.1920.1040" timestamp="1610373575425" />
+    <state width="1899" height="348" key="GridCell.Tab.1.left" timestamp="1610373575425">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="663" height="283" key="GridCell.Tab.1.left/0.0.1368.872@0.0.1368.872" timestamp="1601823433264" />
-    <state width="663" height="283" key="GridCell.Tab.1.right" timestamp="1601823433264">
-      <screen x="0" y="0" width="1368" height="872" />
+    <state width="1899" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1280.920@0.0.1920.1040" timestamp="1610373575425" />
+    <state width="1899" height="348" key="GridCell.Tab.1.right" timestamp="1610373575425">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="663" height="283" key="GridCell.Tab.1.right/0.0.1368.872@0.0.1368.872" timestamp="1601823433264" />
-    <state x="186" y="81" key="SettingsEditor" timestamp="1601731379511">
-      <screen x="0" y="0" width="1368" height="872" />
-    </state>
-    <state x="186" y="81" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1601731379511" />
+    <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1280.920@0.0.1920.1040" timestamp="1610373575425" />
   </component>
 </project>

@@ -8,7 +8,7 @@ print(img.shape[0])    #Hight
 print(img.shape[1])    #Width
 print(img.shape[2])    #channels
 
-#img[:] = 255,0,0                        #all blude
+#img[:] = 255,0,0                        #all blue
 #img[200:300,100:300] = 0,255,0          #selected green
 
 cv2.line(img,(0,0),(img.shape[1],img.shape[0]),(0,0,255),3)         #Bilder bearbeiten
