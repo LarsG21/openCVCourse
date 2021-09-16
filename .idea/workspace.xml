@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b606fe6c-9ada-4c1f-bf71-210473dd79ae" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/openCVCourse.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/openCVCourse.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter4_Shapes_Text.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter4_Shapes_Text.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter8_Shape_Detection.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter8_Shape_Detection.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ColorPicker.py" beforeDir="false" afterPath="$PROJECT_DIR$/ColorPicker.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,10 +29,18 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.Chapter1">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lars\PycharmProjects\openCVCourse" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.ColorPicker">
     <configuration name="Chapter1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="openCVCourse" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -48,6 +53,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -57,7 +63,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Chapter9_Face_Detection" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Chapter8_Shape_Detection" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="openCVCourse" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,7 +75,8 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter9_Face_Detection.py" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter8_Shape_Detection.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -90,6 +97,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ColorPicker.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -111,6 +119,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Document_Scanner.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -132,6 +141,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Virtual_Painting.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -153,6 +163,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -164,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Chapter1" />
         <item itemvalue="Python.ColorPicker" />
+        <item itemvalue="Python.Chapter8_Shape_Detection" />
+        <item itemvalue="Python.Chapter1" />
         <item itemvalue="Python.Virtual_Painting" />
         <item itemvalue="Python.Document_Scanner" />
-        <item itemvalue="Python.Chapter9_Face_Detection" />
       </list>
     </recent_temporary>
   </component>
@@ -180,55 +191,29 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601729154454</updated>
+      <workItem from="1619950274007" duration="624000" />
+      <workItem from="1619962095090" duration="37000" />
+      <workItem from="1623242643039" duration="20000" />
+      <workItem from="1631783061412" duration="1838000" />
     </task>
+    <task id="LOCAL-00001" summary="Added Gaussian Pyramid Example">
+      <created>1612613959726</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1612613959726</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="653" y="228" key="FileChooserDialogImpl" timestamp="1611425982266">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="465" y="191" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1610366378905" />
-    <state x="653" y="228" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1280.920@0.0.1920.1040" timestamp="1611425982266" />
-    <state x="653" y="228" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1610543072620" />
-    <state width="1899" height="327" key="GridCell.Tab.0.bottom" timestamp="1612612474620">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1280.920@0.0.1920.1040" timestamp="1611001235435" />
-    <state width="1259" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1280.920@1920.0.1280.920" timestamp="1612292107133" />
-    <state width="1899" height="327" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1612612474620" />
-    <state width="1899" height="327" key="GridCell.Tab.0.center" timestamp="1612612474620">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1280.920@0.0.1920.1040" timestamp="1611001235434" />
-    <state width="1259" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1280.920@1920.0.1280.920" timestamp="1612292107133" />
-    <state width="1899" height="327" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1612612474620" />
-    <state width="1899" height="327" key="GridCell.Tab.0.left" timestamp="1612612474620">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1280.920@0.0.1920.1040" timestamp="1611001235434" />
-    <state width="1259" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1280.920@1920.0.1280.920" timestamp="1612292107133" />
-    <state width="1899" height="327" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1612612474620" />
-    <state width="1899" height="327" key="GridCell.Tab.0.right" timestamp="1612612474620">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1280.920@0.0.1920.1040" timestamp="1611001235435" />
-    <state width="1259" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1280.920@1920.0.1280.920" timestamp="1612292107133" />
-    <state width="1899" height="327" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1612612474620" />
-    <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1610373575426">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1899" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1280.920@0.0.1920.1040" timestamp="1610373575426" />
-    <state width="1899" height="348" key="GridCell.Tab.1.center" timestamp="1610373575425">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1899" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1280.920@0.0.1920.1040" timestamp="1610373575425" />
-    <state width="1899" height="348" key="GridCell.Tab.1.left" timestamp="1610373575425">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1899" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1280.920@0.0.1920.1040" timestamp="1610373575425" />
-    <state width="1899" height="348" key="GridCell.Tab.1.right" timestamp="1610373575425">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1280.920@0.0.1920.1040" timestamp="1610373575425" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added Gaussian Pyramid Example" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Gaussian Pyramid Example" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/openCVCourse$ColorPicker.coverage" NAME="ColorPicker Coverage Results" MODIFIED="1631784392841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

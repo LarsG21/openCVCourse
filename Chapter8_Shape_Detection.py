@@ -64,7 +64,7 @@ def getContours(img):
 
 imgGray = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
 imgBlur = cv2.GaussianBlur(imgGray,(7,7),1)
-imageCanny = cv2.Canny(imgBlur,50,50)
+imageCanny = cv2.Canny(imgBlur,30,50)
 imgBlack = np.zeros_like(img)
 
 getContours(imageCanny)
