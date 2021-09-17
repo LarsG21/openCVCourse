@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b606fe6c-9ada-4c1f-bf71-210473dd79ae" name="Default Changelist" comment="Added Gaussian Pyramid Example">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="b606fe6c-9ada-4c1f-bf71-210473dd79ae" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Fingerprints/3added_5_mask.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Original_Image/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Original_Image/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Original_Image/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Original_Image/roi_mapped_post.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Attack_imgs/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Attack_imgs/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Attack_imgs/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Attack_imgs/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real_Attack_imgs/5.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ColorPicker.py" beforeDir="false" afterPath="$PROJECT_DIR$/ColorPicker.py" afterDir="false" />
     </list>
@@ -20,6 +29,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="ProjectId" id="1iMtBVuW1fTz0jyC3lJfN1eCHEG" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -31,13 +41,17 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../smartid" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Real_Attack_Imgs_Red" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lars\PycharmProjects\openCVCourse\Real_Attack_Imgs_Red" />
+      <recent name="C:\Users\Lars\PycharmProjects\openCVCourse\Real_Attack_imgs" />
+      <recent name="C:\Users\Lars\PycharmProjects\openCVCourse\Original_Image" />
+      <recent name="C:\Users\Lars\PycharmProjects\openCVCourse\Fingerprints" />
       <recent name="C:\Users\Lars\PycharmProjects\openCVCourse" />
     </key>
   </component>
@@ -218,6 +232,15 @@
     <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
@@ -226,6 +249,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Color_Picker" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/openCVCourse$ColorPicker.coverage" NAME="ColorPicker Coverage Results" MODIFIED="1631863596093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/openCVCourse$ColorPicker.coverage" NAME="ColorPicker Coverage Results" MODIFIED="1631876609643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
